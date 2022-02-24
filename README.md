@@ -1,1 +1,1 @@
-# BestBuy-email-clone
+# BestBuy Email Clone
